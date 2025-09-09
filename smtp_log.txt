@@ -1,0 +1,10 @@
+2025-09-09 14:44:29,456 - INFO - Starting SMTP connection...
+2025-09-09 14:44:30,410 - INFO - Connected to server and sent EHLO.
+2025-09-09 14:44:30,963 - INFO - Started TLS encryption.
+2025-09-09 14:44:32,276 - ERROR - Error occurred: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2527e7a49a2sm80851555ad.14 - gsmtp')
+2025-09-09 14:51:36,456 - INFO - Starting SMTP connection...
+2025-09-09 14:51:37,857 - INFO - Connected to server and sent EHLO.
+2025-09-09 14:51:38,414 - INFO - Started TLS encryption.
+2025-09-09 14:51:39,389 - INFO - Logged in as mohit2301mc47@gmail.com
+2025-09-09 14:51:41,135 - INFO - Email sent successfully to krishsinha0918@gmail.com
+2025-09-09 14:51:41,642 - INFO - SMTP session terminated successfully.

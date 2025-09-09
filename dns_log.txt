@@ -1,0 +1,17 @@
+2025-09-09 15:12:41,621 - Resolving DNS for domain: example.com
+2025-09-09 15:12:45,746 - A record (IP): 23.215.0.138
+2025-09-09 15:12:45,747 - A record (IP): 23.220.75.232
+2025-09-09 15:12:45,748 - A record (IP): 23.220.75.245
+2025-09-09 15:12:45,748 - A record (IP): 23.192.228.80
+2025-09-09 15:12:45,749 - A record (IP): 23.215.0.136
+2025-09-09 15:12:45,750 - A record (IP): 23.192.228.84
+2025-09-09 15:12:50,109 - MX record: . (priority 0)
+2025-09-09 15:12:54,225 - No CNAME record found: The DNS response does not contain an answer to the question: example.com. IN CNAME
+2025-09-09 15:12:54,226 - Resolving DNS for domain: gmail.com
+2025-09-09 15:12:58,342 - A record (IP): 142.250.77.101
+2025-09-09 15:13:02,448 - MX record: alt4.gmail-smtp-in.l.google.com. (priority 40)
+2025-09-09 15:13:02,458 - MX record: alt3.gmail-smtp-in.l.google.com. (priority 30)
+2025-09-09 15:13:02,458 - MX record: gmail-smtp-in.l.google.com. (priority 5)
+2025-09-09 15:13:02,459 - MX record: alt1.gmail-smtp-in.l.google.com. (priority 10)
+2025-09-09 15:13:02,459 - MX record: alt2.gmail-smtp-in.l.google.com. (priority 20)
+2025-09-09 15:13:06,600 - No CNAME record found: The DNS response does not contain an answer to the question: gmail.com. IN CNAME
